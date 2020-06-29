@@ -3,7 +3,7 @@
 课程时间：6.16-6.23  
 学习领域：强化学习  
 讲师：百度飞桨李科浇  
-课程网址：https://aistudio.baidu.com/aistudio/education/group/info/1335
+课程网址：https://aistudio.baidu.com/aistudio/education/group/info/1335  
 课程大纲：  
 一、 强化学习(RL)初印象  
 	RL 概述、入门路线  
